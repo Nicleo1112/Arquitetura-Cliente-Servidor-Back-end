@@ -62,7 +62,7 @@ Exemplo: `GET /api/livros?titulo=Harry&ano_min=1990&ano_max=2000`
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Nicleo1112/Arquitetura-Cliente-Servidor-Back.git
+git clone [https://github.com/Nicleo1112/Arquitetura-Cliente-Servidor-Back.git](https://github.com/Nicleo1112/Arquitetura-Cliente-Servidor-Back-end.git)
 cd Arquitetura-Cliente-Servidor-Back
 
 # Instale as dependências
