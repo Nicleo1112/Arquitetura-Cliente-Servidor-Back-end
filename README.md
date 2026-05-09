@@ -5,7 +5,7 @@ O projeto foi refatorado para implementar a Arquitetura Cliente-Servidor, separa
 as responsabilidades da Interface (Front-end) das regras de negócio e persistência de dados (Back-end).
 
 > **Aviso:** Este é apenas o repositório do Back-end. O Cliente (Front-end independente construído
-> com HTML/JS) deve ser executado separadamente para consumir esta API.
+> com HTML) deve ser executado separadamente para consumir esta API.
 
 ---
 
@@ -62,13 +62,8 @@ Exemplo: `GET /api/livros?titulo=Harry&ano_min=1990&ano_max=2000`
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/livraria-api.git
-cd livraria-api
-
-# Crie e ative o ambiente virtual
-python -m venv .venv
-.venv\Scripts\activate        # Windows
-source .venv/bin/activate     # Linux/Mac
+git clone https://github.com/Nicleo1112/Arquitetura-Cliente-Servidor-Back.git
+cd Arquitetura-Cliente-Servidor-Back
 
 # Instale as dependências
 pip install -r requirements.txt

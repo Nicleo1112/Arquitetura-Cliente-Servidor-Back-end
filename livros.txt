@@ -28,4 +28,3 @@ Computer Organization|Patterson|2013
 Digital Design|Morris Mano|2012
 Data Science Handbook|Jake VanderPlas|2016
 Fluent Python|Luciano Ramalho|2015
-dsadas|adasads|1111
